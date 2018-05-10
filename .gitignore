@@ -107,7 +107,9 @@ venv.bak/
 
 # Created by TranHoang
 
-# Set up virtual env wrapper
-.bash_blockhain
+.bash_blockchain
+node_modules/
+package-lock.json
+config
 
 # End by TranHoang
