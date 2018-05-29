@@ -1,0 +1,9 @@
+# bpython is a fancy interface to the Python interpreter for Linux, BSD, OS X and Windows (with some work).
+# bpython is released under the MIT License
+# https://https://bpython-interpreter.org/
+bpython==0.17.1
+
+cryptography==2.2.2
+
+IPython==6.2.1
+coverage==4.5.1
